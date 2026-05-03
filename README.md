@@ -1,6 +1,6 @@
 # Practice with git and GitHub
 
-<b>hello my name is nashid and i think this will work
+<b>hello my name is nashid and i think this will work  
 <b>hey this is branch called feature-uart and i hope this will only be in
 the branch readme not in the main branch.lets find it out.
 
